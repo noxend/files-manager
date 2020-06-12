@@ -1,0 +1,249 @@
+body {
+  background-image: url(./assets/geometry2.png);
+  /* background-color: rgb(244, 248, 249); */
+}
+
+.spinner-container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-page {
+  display: flex;
+  /* flex-grow: 1; */
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  transform: translate(0, -7%);
+}
+
+.forms-container__image-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.forms-container__image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url(./assets/dw42d.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.forms-container,
+.main-page__files,
+.files-nav {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05), 0 6px 6px rgba(0, 0, 0, 0.03);
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid rgb(235, 237, 240);
+}
+
+.forms-container__form {
+  padding: 10%;
+}
+
+.forms-container__message {
+  color: rgb(150, 150, 150);
+}
+
+.forms-container-bottom {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  line-height: normal;
+}
+
+.forms-container__or {
+  display: flex;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.forms-container__or p {
+  color: rgb(180, 180, 180);
+  line-height: normal;
+  margin: 0 14px;
+}
+
+.forms-container__or div {
+  height: 1px;
+  width: 100%;
+  background-color: rgb(225, 225, 225);
+}
+
+.main-page {
+  display: flex;
+  flex-direction: row;
+}
+
+.main-page__body {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.main-page__center {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+
+.main-page__files {
+  margin: 32px;
+  margin-bottom: 0;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+.files-container,
+.folders-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.folders-container {
+  margin-bottom: 24px;
+}
+
+.files-container__title,
+.folders-container__title {
+  margin-bottom: 12px;
+}
+
+.files-container__files {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-gap: 22px;
+}
+
+.folders-container__folders {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  grid-gap: 14px;
+}
+
+.files-nav {
+  margin: 32px;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.files-nav__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 24px;
+}
+
+.files-nav h4 {
+  margin: 0;
+  margin-right: 14px;
+}
+
+.files-nav button:not(:last-child) {
+  margin-right: 8px;
+}
+
+.files-nav__right-side,
+.files-nav__left-side {
+  display: flex;
+  align-items: center;
+}
+
+.files-nav__vertical-line {
+  width: 1px;
+  height: 14px;
+  margin: 0 12px;
+  background-color: rgb(232, 232, 232);
+}
+
+.files-nav__arrow-left {
+  color: rgba(0, 0, 0, 0.45);
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.files-nav__arrow-left--block {
+  cursor: not-allowed;
+}
+
+.files-nav__arrow-left:hover {
+  color: rgba(58, 152, 230, 0.894);
+}
+
+.main-page__folder-level-- {
+  color: rgba(0, 0, 0, 0.65);
+  font-weight: 600;
+}
+
+.main-page__slash {
+  color: rgba(0, 0, 0, 0.45);
+  margin: 0 8px;
+}
+
+.main-page__folder-level--active {
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.45);
+  transition: 0.2s;
+}
+
+.main-page__folder-level--over {
+  border-radius: 4px;
+  border: 1px dashed rgb(62, 139, 255);
+  background-color: #e6f7ff;
+  color: rgba(0, 0, 0, 0.45);
+  padding: 0 6px;
+  transition: 0.2s;
+}
+
+.main-page__folder-level--active:hover {
+  color: rgba(58, 152, 230, 0.894);
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #f2f2f2 25%, #e6e6e6 37%, #f2f2f2 63%);
+  background-size: 500% 100%;
+  animation: skeleton-loading 1.4s ease infinite;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.btn {
+  border: 2px solid gray;
+  color: gray;
+  background-color: white;
+  padding: 8px 20px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.upload-btn-wrapper input[type='file'] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}

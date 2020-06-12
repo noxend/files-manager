@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Custom Icon The Snapshot 1`] = `
+<svg
+  type="docx"
+>
+  docx.svg
+</svg>
+`;

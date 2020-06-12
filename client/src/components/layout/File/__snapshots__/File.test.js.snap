@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<File /> Snapshot 1`] = `
+<div
+  className="file"
+>
+  <div
+    className="file__top"
+  >
+    <svg
+      className="file__bg"
+      type="psd"
+    >
+      psd.svg
+    </svg>
+    <div
+      className="file__color"
+    />
+    <svg
+      className="file__icon"
+      type="psd"
+    >
+      psd.svg
+    </svg>
+  </div>
+  <div
+    className="file__bottom"
+  >
+    <span
+      className="file__name"
+    >
+      v2.psd
+    </span>
+    <span
+      className="file__size"
+    >
+      1.00 GB
+    </span>
+  </div>
+</div>
+`;

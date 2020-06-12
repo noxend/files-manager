@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  mysql-dev:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: 128500
+      MYSQL_DATABASE: files_manager
+    ports:
+      - "3306:3306"

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 448 448" style="enable-background:new 0 0 448 448;" xml:space="preserve" width="512px" height="512px" class=""><g><polygon style="fill:#69AFFF" points="336,0 104,0 104,8 104,40 24,40 24,144 104,144 104,176 104,448 216,448 312,448 424,448   424,88 424,80 344,0 " data-original="#FFDC69" class="active-path" data-old_color="#FFDC69"/><rect x="24" y="40" style="fill:#5A90FF" width="272" height="104" data-original="#FF8C5A" class="" data-old_color="#FF8C5A"/><rect x="216" y="288" style="fill:#9FD0FE" width="96" height="160" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/><polygon style="fill:#FFFFFF;" points="256,256 232,256 232,232 272,192 296,216 " data-original="#FFFFFF" class=""/><polygon style="fill:#5575FF" points="344,0 336,0 336,88 424,88 424,80 " data-original="#FFB855" class="" data-old_color="#FFB855"/><g>
+	<rect x="240" y="312" style="fill:#FFFFFF;" width="24" height="16" data-original="#FFFFFF" class=""/>
+	<rect x="240" y="344" style="fill:#FFFFFF;" width="48" height="16" data-original="#FFFFFF" class=""/>
+	<rect x="240" y="376" style="fill:#FFFFFF;" width="48" height="16" data-original="#FFFFFF" class=""/>
+	<rect x="240" y="408" style="fill:#FFFFFF;" width="48" height="16" data-original="#FFFFFF" class=""/>
+	<rect x="48" y="104" style="fill:#FFFFFF;" width="16" height="16" data-original="#FFFFFF" class=""/>
+	<path style="fill:#FFFFFF;" d="M94.2,64.168H77.376v55.808H95.04c17.672,0,27.816-10.264,27.816-28.16   C122.848,73.728,112.944,64.168,94.2,64.168z M106.512,91.816c0,13.272-7.016,14.976-13.144,14.976V77.344   C100.2,77.344,106.512,79.104,106.512,91.816z" data-original="#FFFFFF" class=""/>
+	<path style="fill:#FFFFFF;" d="M128.464,91.816c0,17.712,10.2,29.16,25.984,29.16s25.984-11.448,25.984-29.16   c0-17.672-9.952-28.648-25.984-28.648S128.464,74.144,128.464,91.816z M154.44,106.952c-5.952,0-9.648-5.8-9.648-15.144   c0-9.168,3.608-14.64,9.648-14.64s9.656,5.472,9.656,14.64C164.096,101.16,160.392,106.952,154.44,106.952z" data-original="#FFFFFF" class=""/>
+	<path style="fill:#FFFFFF;" d="M231.136,112.672l0.488-0.56l-8.936-9.88l-0.624,0.672c-2.552,2.728-5.456,4.056-8.872,4.056   c-6.776,0-10.816-5.592-10.816-14.968c0-8.728,4.584-14.816,11.152-14.816c3.328,0,5.504,1.32,7.936,3.456l0.632,0.544L231,71.144   l-0.56-0.56c-4.712-4.712-10.936-7.416-17.08-7.416c-13.576,0-27.312,10.072-27.312,29.32c0,17.304,10.592,28.488,26.984,28.488   C220.104,120.968,226.536,118.024,231.136,112.672z" data-original="#FFFFFF" class=""/>
+</g><g>
+	<rect x="336" y="328" style="fill:#9FD0FE" width="40" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="352" y="360" style="fill:#9FD0FE" width="16" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="384" y="360" style="fill:#9FD0FE" width="16" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="336" y="392" style="fill:#9FD0FE" width="56" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="152" y="360" style="fill:#9FD0FE" width="40" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="160" y="328" style="fill:#9FD0FE" width="16" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="128" y="328" style="fill:#9FD0FE" width="16" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="136" y="296" style="fill:#9FD0FE" width="56" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="320" y="216" style="fill:#9FD0FE" width="56" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="152" y="216" style="fill:#9FD0FE" width="56" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="344" y="248" style="fill:#9FD0FE" width="16" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="376" y="248" style="fill:#9FD0FE" width="24" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="128" y="248" style="fill:#9FD0FE" width="16" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+	<rect x="160" y="248" style="fill:#9FD0FE" width="24" height="16" data-original="#FEEC9F" class="" data-old_color="#FEEC9F"/>
+</g></g> </svg>

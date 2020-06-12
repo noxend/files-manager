@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Default Button Snapshot 1`] = `
+<button
+  className="ant-btn ant-btn-primary"
+  onClick={[Function]}
+  type="button"
+>
+  <span>
+    Title
+  </span>
+</button>
+`;
