@@ -30,3 +30,7 @@ Run the migration:
 
 Discard the migration:
 `db-migrate down --config database.json`
+![image_2019-07-21_13-54-31](https://github.com/noxend/files-manager/assets/35522827/f315b735-1bc1-4226-a3c2-ac41dfdef9ef)
+
+![image_2019-07-27_22-13-02](https://github.com/noxend/files-manager/assets/35522827/08ed56c9-ddaf-4e34-9c97-5c29a43cd780)
+
